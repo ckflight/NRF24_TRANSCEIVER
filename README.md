@@ -1,4 +1,4 @@
-# NRF24_Transceiver_Hardware
+# NRF24_TRANSCEIVER_HARDWARE
 
 This is a small board including KL27Z MCU, NRF24 2.4Ghz Transceiver IC and RFX2401C Front End with Power Amplifier for transmission and Low Noise Amplifier for reception.
 
